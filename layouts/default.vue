@@ -9,12 +9,14 @@ import BFooter from '@compromis/blobby/components/footer/BFooter.vue'
     <BNav>
       <BNavItem v-if="$route.path === '/cas'" href="/">Valencià</BNavItem>
       <BNavItem v-else href="/cas">Castellano</BNavItem>
-      <template #logo-append>Aeroport Sostenible</template>
+      <template #logo-append>Aeroport sostenible</template>
     </BNav>
 
     <slot />
-    <div class="container footer">
-      <BFooter variant="dark" />
+    <div class="bg-white">
+      <div class="container footer">
+        <BFooter />
+      </div>
     </div>
   </div>
 </template>

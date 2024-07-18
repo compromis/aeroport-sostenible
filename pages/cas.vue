@@ -6,11 +6,11 @@ useHead({
 })
 
 useSeoMeta({
-  title: 'El mapa de la vergüenza - Compromís',
-  ogTitle: 'El mapa de la vergüenza - Compromís',
+  title: 'Aeropuerto sostenible - Compromís',
+  ogTitle: 'Aeropuerto sostenible - Compromís',
   description: 'Una herramienta viva donde podrás identificar cómo nos afectan de manera concreta esas políticas a lo largo del País Valenciano: puntos negros, recortes, caos, inoperancia y censura.',
   ogDescription: 'Una herramienta viva donde podrás identificar cómo nos afectan de manera concreta esas políticas a lo largo del País Valenciano: puntos negros, recortes, caos, inoperancia y censura..',
-  ogImage: 'https://mapavergonya.compromis.net/images/ogimage.png',
+  ogImage: 'https://aeroportsostenible.compromis.net/images/ogimage.png',
   twitterCard: 'summary_large_image',
 })
 </script>
@@ -21,7 +21,7 @@ useSeoMeta({
       <SiteHeader />
       <section class="text text-intro">
         <h1 v-motion-fade-visible class="visually-hidden">
-          El mapa de la vergüenza
+          Aeropuerto sostenible
         </h1>
 
         <Languages />
