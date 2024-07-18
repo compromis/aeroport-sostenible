@@ -1,5 +1,5 @@
 <template>
-  <section class="share">
+  <section class="share" id="share">
     <div class="outline-card">
       <div class="header">
         <div class="header-content">
