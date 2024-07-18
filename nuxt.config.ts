@@ -59,6 +59,6 @@ export default defineNuxtConfig({
   },
 
   cloudflareAnalytics: {
-    token: 'a144fc55d68e4ad78b7cd443bae289be'
+    token: '4f0bbe7ec8634572b785479f6b3ef626'
   }
 })
