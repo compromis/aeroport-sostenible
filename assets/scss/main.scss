@@ -13,7 +13,7 @@
 
 body,
 html {
-  background-color: #86b6d5;
+  background-color: #00518c;
   background-image: url(../images/sky.jpg);
   background-size: cover;
   background-attachment: fixed;
@@ -50,12 +50,8 @@ main {
   }
 }
 
-.container {
+main .container {
   padding: 0;
-}
-
-.slot-slide {
-  margin: 10vh 0;
 }
 
 @media (max-width: 1500px) {

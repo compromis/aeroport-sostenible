@@ -33,7 +33,7 @@ async function submit() {
 <template>
   <section class="form card">
     <BCard padded shadow>
-      <h2>Firma</h2>
+      <h2>Firma contra l'ampliació de l'Aeroport de Manises</h2>
       
       <Motion />
       
@@ -68,6 +68,10 @@ async function submit() {
   overflow: hidden;
   max-width: var(--text-container);
   margin: 0 auto;
+}
+
+.input-float .input {
+  border-radius: 0;
 }
 
 .form-group .card {
