@@ -18,6 +18,7 @@ html {
   background-size: cover;
   background-attachment: fixed;
   color: var(--white);
+  font-weight: 500;
 }
 
 main {
@@ -52,6 +53,16 @@ main {
 
 main .container {
   padding: 0;
+}
+
+.pp {
+  color: #1e4890;
+  font-weight: 700;
+}
+
+.psoe {
+  color: #e41c22;
+  font-weight: 700;
 }
 
 @media (max-width: 1500px) {
