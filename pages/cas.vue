@@ -56,11 +56,11 @@ const accordion = [
         <Languages />
 
         <p v-motion-fade-visible>
-          Firma para frenar la ampliación de vuelos y pistas del aeropuerto de manises, para garantizar la salud y el bienestar de miles de personas
+          Firma para frenar la ampliación de vuelos y pistas del Aeropuerto de Manises, para garantizar la salud y el bienestar de miles de personas
         </p>
  
         <p v-motion-fade-visible>
-          1.103 operaciones de aeronaves nocturnas <sup>(mayo de 2024)</sup>, un turismo de baja calidad que rompe el mercado de la vivienda ocupando apartamentos mayoritariamente ilegales, una población afectada que tiene que cerrar sus ventanas para poder descansar
+          1.103 operaciones nocturnas de aeronaves <sup>(mayo de 2024)</sup>, un turismo de baja calidad que rompe el mercado de la vivienda ocupando apartamentos mayoritariamente ilegales, una población afectada que tiene que cerrar sus ventanas para poder descansar
         </p>
       </section>
     </div>

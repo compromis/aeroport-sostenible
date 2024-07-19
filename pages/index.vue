@@ -67,7 +67,7 @@ const accordion = [
     <Accordion id="accordtion" :content="accordion" />
     <SiteForm />
     <Share>
-      <template #title>Fes difusió!</template>
+      <template #title>Fes-ne difusió!</template>
       <p>Comparteix aquesta pàgina amb les teues amistats.</p>
     </Share>
   </main>
