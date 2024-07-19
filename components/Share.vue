@@ -16,7 +16,7 @@
         <a href="https://t.me/share/url?url=https://compromis.net/aeroport-sostenibl&text=" class="link telegram">
           <span>-&gt;</span> Telegram
         </a>
-        <a href="https://www.facebook.com/sharer/sharer.php?u=https://compromis.net/aeroport-sostenibl" class="link facebook">
+        <a href="https://www.facebook.com/sharer/sharer.php?u=https://compromis.net/aeroport-sostenible" class="link facebook">
           <span>-&gt;</span> Facebook
         </a>
         <a href="https://twitter.com/intent/tweet/?text=&url=https://compromis.net/aeroport-sostenibl&hashtags=AeroportSostenible" class="link twitter">
