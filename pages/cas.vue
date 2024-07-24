@@ -58,6 +58,13 @@ const accordion = [
         <p v-motion-fade-visible>
           Firma para frenar la ampliación de vuelos y pistas del Aeropuerto de Manises, para garantizar la salud y el bienestar de miles de personas
         </p>
+
+        <div v-motion-fade-visible class="sign-cta">
+          <a href="#firma" class="button button-primary text-lg button-lg button-solid">
+            <Icon name="fluent:signature-20-regular" />
+            Firma
+          </a>
+        </div>
  
         <p v-motion-fade-visible>
           1.103 operaciones nocturnas de aeronaves <sup>(mayo de 2024)</sup>, un turismo de baja calidad que rompe el mercado de la vivienda ocupando apartamentos mayoritariamente ilegales, una población afectada que tiene que cerrar sus ventanas para poder descansar
@@ -65,7 +72,7 @@ const accordion = [
       </section>
     </div>
     <Accordion id="accordtion" :content="accordion" />
-    <SiteForm cas />
+    <SiteForm id="firma" cas />
     <Share>
       <template #title>Haz difusión</template>
       <p>Comparte esta página con tus amistades.</p>
